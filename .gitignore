@@ -1,0 +1,10 @@
+### Node.js related items
+node_modules
+
+### IDE specific items
+/.settings
+/*/.settings
+.aws/
+.vscode/
+.idea/
+*.iml

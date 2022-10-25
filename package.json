@@ -1,0 +1,17 @@
+{
+  "name": "stripe-demo-integration",
+  "version": "1.0.0",
+  "description": "Demo Stripe Intrgration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mykola Ihnatenko",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "stripe": "^10.15.0"
+  }
+}
